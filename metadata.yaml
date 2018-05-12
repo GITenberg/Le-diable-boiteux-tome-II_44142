@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '37398'
     url: http://www.gutenberg.org/2009/agents/37398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44142#Le-diable-boiteux-tome-II
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-11-10'
 gutenberg_type: Text
